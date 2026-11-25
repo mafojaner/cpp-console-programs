@@ -1,0 +1,29 @@
+# Visual Studio state and build output. None of this belongs in a repository,
+# and the .vs folder is what carried the institutional identifiers originally.
+.vs/
+Debug/
+Release/
+x64/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.ipch
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.db
+*.vsidx
+*.suo
+*.wsuo
+*.user
+
+# Compiled binaries from g++/clang
+a.out
+*.o
+calculator
+character-classifier
+compound-interest
+series-sum
